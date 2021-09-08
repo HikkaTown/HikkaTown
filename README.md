@@ -1,4 +1,20 @@
-### Hi there 👋
+# Всем привет, меня зовут Геннадий 👋
+
+- ⚡Cтремлюсь к работе в крупной компании с крупными проектами.
+- 🔥Хочу реализовывать все свои возможности на максимум и даже немного больше.
+- 🌪Готов изучать новые технологии и получать профессиональный рост.
+- 🌎Хочу работать в команде с лучшими специалистами и единомышлинниками.
+
+## 🔨Мой стек:
+
+![html_original_wordmark_logo_icon_146478](https://user-images.githubusercontent.com/69755276/132522853-01d8b420-fa1a-4f88-ad52-9ef8aec6263a.png)
+![css_original_wordmark_logo_icon_146576](https://user-images.githubusercontent.com/69755276/132522859-9bf96b65-3698-43b7-82ce-c3d2e311ab96.png)
+![file_type_js_official_icon_130509](https://user-images.githubusercontent.com/69755276/132522873-cdd59341-48ec-492f-8e90-201b3fce5077.png)
+![file_type_reactjs_icon_130205](https://user-images.githubusercontent.com/69755276/132522882-fc508fec-eed8-41d2-9ee2-799c1534812e.png)
+![nodejs_original_wordmark_logo_icon_146412](https://user-images.githubusercontent.com/69755276/132522889-6b25c195-7fe9-4c6f-bc60-62c31e42266d.png)
+![mongodb_original_wordmark_logo_icon_146425](https://user-images.githubusercontent.com/69755276/132522895-841bec54-1385-40e7-b2bd-ef18fc26f151.png)
+
+
 
 <!--
 **HikkaTown/HikkaTown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
