@@ -13,7 +13,10 @@
 ![file_type_reactjs_icon_130205](https://user-images.githubusercontent.com/69755276/132522882-fc508fec-eed8-41d2-9ee2-799c1534812e.png)
 ![nodejs_original_wordmark_logo_icon_146412](https://user-images.githubusercontent.com/69755276/132522889-6b25c195-7fe9-4c6f-bc60-62c31e42266d.png)
 ![mongodb_original_wordmark_logo_icon_146425](https://user-images.githubusercontent.com/69755276/132522895-841bec54-1385-40e7-b2bd-ef18fc26f151.png)
-![icons8-vue-js-48](https://user-images.githubusercontent.com/69755276/166098569-4a229db4-0b9a-4f33-bd2c-77a939fff1c6.png)
+![icons8-vue-js-32](https://user-images.githubusercontent.com/69755276/166098598-df66744c-6be4-41c5-89f6-30dda3e65374.png)
+![icons8-graphql-32](https://user-images.githubusercontent.com/69755276/166098611-8aab6f6a-4c27-45d0-a13b-46b1cd4d87da.png)
+![icons8-redux-32](https://user-images.githubusercontent.com/69755276/166098619-f5dad815-fbc1-40d3-8a02-96ea1530e7dc.png)
+
 
 
 <!--
