@@ -1,9 +1,4 @@
-# Всем привет, меня зовут Геннадий 👋
-
-- ⚡Cтремлюсь к работе в крупной компании с крутыми проектами.
-- 🔥Хочу реализовывать все свои возможности на максимум и даже немного больше.
-- 🌪Готов изучать новые технологии и получать профессиональный рост.
-- 🌎Хочу работать в команде с лучшими специалистами и единомышлинниками.
+# Всем привет, меня зовут Геннадий. Я front-end разработчик в крупной компании.
 
 ## 🔨Мой стек:
 
@@ -16,20 +11,3 @@
 ![icons8-vue-js-32](https://user-images.githubusercontent.com/69755276/166098598-df66744c-6be4-41c5-89f6-30dda3e65374.png)
 ![icons8-graphql-32](https://user-images.githubusercontent.com/69755276/166098611-8aab6f6a-4c27-45d0-a13b-46b1cd4d87da.png)
 ![icons8-redux-32](https://user-images.githubusercontent.com/69755276/166098619-f5dad815-fbc1-40d3-8a02-96ea1530e7dc.png)
-
-
-
-<!--
-**HikkaTown/HikkaTown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
