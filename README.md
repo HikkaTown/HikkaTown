@@ -11,3 +11,6 @@
 ![icons8-vue-js-32](https://user-images.githubusercontent.com/69755276/166098598-df66744c-6be4-41c5-89f6-30dda3e65374.png)
 ![icons8-graphql-32](https://user-images.githubusercontent.com/69755276/166098611-8aab6f6a-4c27-45d0-a13b-46b1cd4d87da.png)
 ![icons8-redux-32](https://user-images.githubusercontent.com/69755276/166098619-f5dad815-fbc1-40d3-8a02-96ea1530e7dc.png)
+<img src="https://github.com/HikkaTown/HikkaTown/assets/69755276/1ab2d042-89a5-4bf8-8e22-d10eccc81219" width="32" height="32">
+<img src="https://github.com/HikkaTown/HikkaTown/assets/69755276/d56a67a4-6826-416f-9815-9909e7c1c222" width="32" height="32">
+<img src="https://github.com/HikkaTown/HikkaTown/assets/69755276/9954ccbd-a890-4bdf-8c7e-dd77dd079de0" width="32" height="32">
